@@ -1,3 +1,6 @@
+///updated 19-07-2025 
+//pb@pd2 toggles between countdown and countup mode on timer1
+
 #define F_CPU 16000000L
 
 #include <avr/io.h>
